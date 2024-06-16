@@ -12,6 +12,7 @@ Follow these steps to install the required libraries and download the model:
 
 After installing these libraries run the llama python file using the following below command:
 Before we run the script, let’s make sure we can access and interact with Hugging Face directly from the terminal. To do that, make sure you have the Hugging Face CLI installed:
+
 -> pip install -U "huggingface_hub[cli]"
 
 -> huggingface-cli login
